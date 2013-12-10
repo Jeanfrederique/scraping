@@ -1,0 +1,17 @@
+{
+  "name": "Web-scraper",
+  "version": "1.0.0",
+  "scripts":{
+    "start": "node app.js"
+  },
+  
+  "dependencies": {
+    "zepto-node": "*",
+    "domino": "*",
+    "request": "*",
+    "debub": "*",
+    "nodemon": "*"
+  },
+   "description": "Scraping DailyCaller using node.js",
+  "author": "Jean"  
+}
