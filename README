@@ -5,7 +5,7 @@ Installation
 
 Prerequisites: app.js
 
-git clone git@github.com:Lulo/pubchecker.git
+git@github.com:Jeanfrederique/scraping.git
 cd pubchecker
 npm install
 Usage
