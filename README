@@ -6,7 +6,7 @@ Installation
 Prerequisites: app.js
 
 git@github.com:Jeanfrederique/scraping.git
-cd pubchecker
+cd scraping
 npm install
 Usage
 
