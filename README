@@ -1,0 +1,18 @@
+Scraping
+A script for scraping a publisher's content.
+
+Installation
+
+Prerequisites: app.js
+
+git clone git@github.com:Lulo/pubchecker.git
+cd pubchecker
+npm install
+Usage
+
+
+Specification
+
+Provide a link for scraper to scrape.
+if article page has the field script is targeting, it'll print in console
+
